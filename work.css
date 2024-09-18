@@ -1,0 +1,241 @@
+body {
+    display: block;
+   
+}
+
+
+h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#super {
+    display: flex;
+    padding: 10px 20%;
+    align-items: center;
+    background-color: white;
+    justify-content: space-around;
+}
+
+img {
+
+    width: 100%;
+    height: 450px;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 30px;
+}
+
+.hamza {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 2vh;
+}
+
+#sid {
+    height: 60px;
+    width: 80px;
+}
+
+#hide {
+    height: 60px;
+    width: 80px;
+
+}
+
+#king {
+    height: 60px;
+    width: 80px;
+    gap: ;
+}
+
+#miss {
+    height: 60px;
+    width: 80px;
+
+}
+
+#work {
+    height: 60px;
+    width: 80px;
+
+}
+
+#used {
+
+    height: 60px;
+    width: 80px;
+
+}
+
+.ball {
+    border: 2px solid gray;
+    background-color: white;
+    height: 22vw;
+    width: 22vw;
+    border-radius: 5px;
+    margin: 20px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    transition-duration: 1s;
+}
+
+#drum {
+    height: 260px;
+    width: 150px;
+}
+
+#cards {
+    margin: 60px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#cow {
+    border: 2px solid gray;
+    background-color: white;
+    height: 22vw;
+    width: 22vw;
+    border-radius: 5px;
+    margin: 20px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    transition-duration: 1s;
+}
+
+#camel {
+    border: 2px solid gray;
+    background-color: white;
+    height: 22vw;
+    width: 22vw;
+    border-radius: 5px;
+    margin: 20px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    transition-duration: 1s;
+}
+
+#mouse {
+    border: 2px solid gray;
+    background-color: white;
+    height: 22vw;
+    width: 22vw;
+    border-radius: 5px;
+    margin: 20px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    transition-duration: 1s;
+}
+
+#horse {
+    border: 2px solid gray;
+    background-color: white;
+    height: 22vw;
+    width: 22vw;
+    border-radius: 5px;
+    margin: 20px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    transition-duration: 1s;
+}
+
+#rat {
+    border: 2px solid gray;
+    background-color: white;
+    height: 22vw;
+    width: 22vw;
+    border-radius: 5px;
+    margin: 20px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    transition-duration: 1s;
+}
+
+#boy {
+    border: 2px solid gray;
+    background-color: white;
+    height: 22vw;
+    width: 22vw;
+    border-radius: 5px;
+    margin: 20px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    transition-duration: 1s;
+}
+
+.red {
+    height: 260px;
+    width: 150px;
+}
+
+.green {
+    height: 260px;
+    width: 150px;
+}
+
+.yellow {
+    height: 260px;
+    width: 150px;
+}
+
+.pink {
+    height: 260px;
+    width: 150px;
+}
+
+.blue {
+    height: 260px;
+    width: 150px;
+}
+
+.silver {
+    height: 260px;
+    width: 150px;
+}
+
+.black {
+    height: 260px;
+    width: 150px;
+}
+
+#kurta {
+    padding-bottom: 100px;
+    background-color: bisque;
+}
+
+.night {
+    padding-top: 25px;
+}
+
+#day {
+    color: white;
+    gap: 0px;
+    background-color: rgb(56, 41, 41);
+    height: 150px;
+    padding: 70px;
+}
